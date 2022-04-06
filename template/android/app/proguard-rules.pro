@@ -12,3 +12,6 @@
 # Hermes
 -keep class com.facebook.hermes.unicode.** { *; }
 -keep class com.facebook.jni.** { *; }
+
+# React native config
+-keep class com.mypackage.BuildConfig { *; }

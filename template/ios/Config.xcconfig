@@ -1,0 +1,8 @@
+//
+//  Config.xcconfig
+//  HelloWorld
+//
+//  Created by Le Hau on 06/04/2022.
+//
+
+#include? "tmp.xcconfig"
